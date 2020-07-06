@@ -4,7 +4,6 @@
 .orange-bg{
     background-color: #FEEAE9;
     border-radius: 10px;
-    
 }
 .carousel-item{
     padding: 20px 40px;
@@ -20,12 +19,73 @@
     padding:9px 25px;
     cursor: pointer;
 }
+
 .cat1{
     background-color: #FFA500;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
 }
 .cat2{
     background-color: #FF1872;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
 }
 .cat3{
     background-color: #0000FF;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.categories h1{
+    color:#fff;
+}
+.categories img{
+    width: 100px;
+}
+.Shoes h2{
+    margin-bottom: 50px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    transition: .5s;
+
+}
+.Backpack{
+    margin-bottom: 50px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top:none;
+    border: none;
+}
+.card:nth-child(1){
+    border: none;
+}
+.card:nth-child(2){
+    border: none;
+}
+.card:nth-child(3){
+    border: none;
+}
+.card:nth-child(4){
+    border: none;
+}
+.card:nth-child(5){
+    border: none;
+}
+.card:nth-child(6){
+    border: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h5{
+    color:gray;
+}
+footer{
+    text-align: center;
 }
